@@ -24,9 +24,8 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Language Used
 
-![Gokula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokulkannan-sys&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulkannan-sys&layout=compact&theme=radical)
 
 ---
