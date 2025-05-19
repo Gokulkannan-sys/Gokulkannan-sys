@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Gokula Kannan
+# 👋 Hi, I’m Gokula Kannan B
 
 - 👀 I’m interested in DevOps | AWS | Cloud Infrastructure | Linux System Administration
 - 🌱 I’m currently learning Kubernetes, Helm, and advanced CI/CD pipelines with Jenkins and GitHub Actions.
