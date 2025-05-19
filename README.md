@@ -24,7 +24,7 @@
 
 ---
 
-## 📈 Language Used
+## 🔤 Language Used
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulkannan-sys&layout=compact&theme=radical)
 
